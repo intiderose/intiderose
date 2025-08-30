@@ -24,7 +24,7 @@ I’m Inti, a student of the University Technician Degree in Software Applicatio
 
 👨‍💻 I’d love to collaborate on projects that help me gain professional experience and allow me to apply my knowledge in real-world scenarios.
 
-Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️‍♂️ doing sports, and spending time with friends🤝.
+✨ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️‍♂️ doing sports, and spending time with friends🤝.
 
 📫 Reach me at: <a href="intiderose2003@gmail.com">intiderose2003@gmail.com</a>
 
