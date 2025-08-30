@@ -18,7 +18,7 @@ I’m Inti, a student of the University Technician Degree in Software Applicatio
 
 - JavaScript
 
-- Angular
+- TypeScript
 
 🌱 I’m always eager to learn and improve my skills, and I’m looking forward to opportunities where I can grow as a developer and contribute to meaningful projects.
 
