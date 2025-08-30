@@ -74,5 +74,5 @@ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️
 </div>
 
 [![](https://github-readme-stats.vercel.app/api?username=intiderose&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/intiderose)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=intiderose&theme=material-palenight)](https://github.com/intiderose)
+
 </div>
