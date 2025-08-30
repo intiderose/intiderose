@@ -33,13 +33,9 @@ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
  
 
 
@@ -49,10 +45,9 @@ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 
@@ -66,6 +61,10 @@ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️
 </a>
 
 <h2>Github stats:</h2> 
+
+<div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intiderose&layout=compact&show_icon=true&theme=algolia" alt="intiderose-langs"/>
+</div>
 
 [![](https://github-readme-stats.vercel.app/api?username=intiderose&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/intiderose)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=intiderose&theme=material-palenight)](https://github.com/intiderose)
