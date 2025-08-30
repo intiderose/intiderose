@@ -69,7 +69,7 @@ Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️
 
 <h2>Github stats:</h2> 
 
-<div align="center">
+<div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intiderose&layout=compact&show_icon=true&theme=algolia" alt="intiderose-langs"/>
 </div>
 
