@@ -22,7 +22,7 @@ I’m Inti, a student of the University Technician Degree in Software Applicatio
 
 🌱 I’m always eager to learn and improve my skills, and I’m looking forward to opportunities where I can grow as a developer and contribute to meaningful projects.
 
-👯 I’d love to collaborate on projects that help me gain professional experience and allow me to apply my knowledge in real-world scenarios.
+👨‍💻 I’d love to collaborate on projects that help me gain professional experience and allow me to apply my knowledge in real-world scenarios.
 
 Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️‍♂️ doing sports, and spending time with friends🤝.
 
