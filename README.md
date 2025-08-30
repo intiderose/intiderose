@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Inti Lucas Derose </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" width=280px alt="Working" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -24,7 +24,7 @@ I’m Inti Lucas Derose, a student of the University Technician Degree in Softwa
 
 👯 I’d love to collaborate on projects that help me gain professional experience and allow me to apply my knowledge in real-world scenarios.
 
-Outside of tech, I enjoy 🎮 playing video games, 📚 reading, 🏋️‍♂️ doing sports, and spending time with friends.
+Outside of tech, I enjoy 🎮 playing video games, 🎬 watching movies, 🏋️‍♂️ doing sports, and spending time with friends🤝.
 
 📫 Reach me at: <a href="intiderose2003@gmail.com">intiderose2003@gmail.com</a>
 
