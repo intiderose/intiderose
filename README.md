@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m Inti Lucas Derose, a student of the University Technician Degree in Software Application Development at UNICEN (National University of Central Buenos Aires, Argentina). I’m currently in my final semester, close to graduating.
+I’m Inti, a student of the University Technician Degree in Software Application Development at UNICEN (National University of Central Buenos Aires, Argentina). I’m currently in my final semester, close to graduating.
 
 💻 I focus on both front-end and back-end development, and I have worked on several academic and personal projects while learning technologies such as:
 
